@@ -9,3 +9,5 @@ I'm Ali Imran, a passionate Computer Science Ungergraduate at FAST NUCES LHR. I 
 ‣ XML<br>
 ‣ HTML <br>
 ‣ CSS<br>
+‣ php<br>
+‣ MySql<br>
