@@ -4,15 +4,15 @@ I'm **Ali Imran**, a passionate Computer Science Undergraduate at **FAST NUCES L
 
 ## 👨🏻‍💻 <b><u>Tech Stack</u></b>
 
-- ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white)      ![Progress](https://progress-bar.dev/70)
-- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)            ![Progress](https://progress-bar.dev/80)
-- ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)         ![Progress](https://progress-bar.dev/65)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  ![Progress](https://progress-bar.dev/75)
-- ![XML](https://img.shields.io/badge/-XML-FFA500?logo=xml&logoColor=white)               ![Progress](https://progress-bar.dev/60)
+- ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white)      ![Progress](https://progress-bar.dev/40)
+- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)            ![Progress](https://progress-bar.dev/35)
+- ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)         ![Progress](https://progress-bar.dev/85)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  ![Progress](https://progress-bar.dev/60)
+- ![XML](https://img.shields.io/badge/-XML-FFA500?logo=xml&logoColor=white)               ![Progress](https://progress-bar.dev/80)
 - ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)           ![Progress](https://progress-bar.dev/85)
-- ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)              ![Progress](https://progress-bar.dev/75)
+- ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)              ![Progress](https://progress-bar.dev/70)
 - ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)               ![Progress](https://progress-bar.dev/50)
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)         ![Progress](https://progress-bar.dev/70)
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)         ![Progress](https://progress-bar.dev/65)
 
 
 ## 📈 <b><u>LeetCode Profile</u></b>
@@ -44,12 +44,12 @@ I'm **Ali Imran**, a passionate Computer Science Undergraduate at **FAST NUCES L
 ## 📂 <b><u>Featured Projects</u></b>
 
 ### Project 1: [Project Name](https://github.com/Coconut-X/Conversions-Application)
-- Description of the project.
-- Tech Stack: ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white) ![XML](https://img.shields.io/badge/-XML-FFA500?logo=xml&logoColor=white)   ...
+- his project is designed to provide users with an intuitive and efficient way to convert various units of measurement, particularly those commonly used in the kitchen and for mass conversions.
+- Tech Stack: ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white) ![XML](https://img.shields.io/badge/-XML-FFA500?logo=xml&logoColor=white) 
 
-### Project 2: [Project Name](https://github.com/Coconut-X/project-name)
-- Description of the project.
-- Tech Stack: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)  ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ...
+### Project 2: [Project Name](https://github.com/Coconut-X/Wellness Wise)
+- In Process.
+- Tech Stack: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)  ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) 
 
 ## 🎯 <b><u>Goals</u></b>
 
