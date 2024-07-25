@@ -47,7 +47,7 @@ I'm **Ali Imran**, a passionate Computer Science Undergraduate at **FAST NUCES L
 - his project is designed to provide users with an intuitive and efficient way to convert various units of measurement, particularly those commonly used in the kitchen and for mass conversions.
 - Tech Stack: ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white) ![XML](https://img.shields.io/badge/-XML-FFA500?logo=xml&logoColor=white) 
 
-### Project 2: [Project Name](https://github.com/Coconut-X/Wellness Wise)
+### Project 2: [Project Name](https://github.com/Coconut-X/Wellness-Wise)
 - In Process.
 - Tech Stack: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)  ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) 
 
