@@ -38,7 +38,7 @@ I'm **Ali Imran**, a passionate Computer Science Undergraduate at **FAST NUCES L
 ## 📫 <b><u>Connect with Me</u></b>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-imran-ab5844290/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/coconut._x._)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/coconut_.x._)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:coconutx453@gmail.com)
 
 ## 📂 <b><u>Featured Projects</u></b>
