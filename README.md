@@ -4,15 +4,15 @@ I'm **Ali Imran**, a passionate Computer Science Undergraduate at **FAST NUCES L
 
 ## 👨🏻‍💻 <b><u>Tech Stack</u></b>
 
-- ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white)      ![Progress](https://progress-bar.dev/40)
-- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)            ![Progress](https://progress-bar.dev/35)
-- ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)         ![Progress](https://progress-bar.dev/85)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  ![Progress](https://progress-bar.dev/60)
-- ![XML](https://img.shields.io/badge/-XML-FFA500?logo=xml&logoColor=white)               ![Progress](https://progress-bar.dev/80)
-- ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)           ![Progress](https://progress-bar.dev/85)
-- ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)              ![Progress](https://progress-bar.dev/70)
-- ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)               ![Progress](https://progress-bar.dev/50)
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)         ![Progress](https://progress-bar.dev/65)
+- ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white)              ✅✅✅✅🔲🔲🔲🔲🔲🔲
+- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)                    ✅✅✅🔲🔲🔲🔲🔲🔲🔲
+- ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)                 ✅✅✅✅✅✅✅✅🔲🔲
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  ✅✅✅✅✅✅🔲🔲🔲🔲
+- ![XML](https://img.shields.io/badge/-XML-FFA500?logo=xml&logoColor=white)                       ✅✅✅✅✅✅✅✅🔲🔲
+- ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)                   ✅✅✅✅✅✅✅✅✅🔲
+- ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)                      ✅✅✅✅✅✅✅🔲🔲🔲
+- ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)                       ✅✅✅✅🔲🔲🔲🔲🔲🔲
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)                 ✅✅✅✅✅✅🔲🔲🔲🔲
 
 
 ## 📈 <b><u>LeetCode Profile</u></b>
