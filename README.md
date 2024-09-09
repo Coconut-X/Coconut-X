@@ -7,6 +7,7 @@ I'm **Ali Imran**, a passionate Computer Science Undergraduate at **FAST NUCES L
 - ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white)              ✅✅✅✅🔲🔲🔲🔲🔲🔲
 - ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)                    ✅✅✅🔲🔲🔲🔲🔲🔲🔲
 - ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)                 ✅✅✅✅✅✅✅✅🔲🔲
+-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)               ✅✅✅✅✅✅🔲🔲🔲🔲
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  ✅✅✅✅✅✅🔲🔲🔲🔲
 - ![XML](https://img.shields.io/badge/-XML-FFA500?logo=xml&logoColor=white)                       ✅✅✅✅✅✅✅✅🔲🔲
 - ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)                   ✅✅✅✅✅✅✅✅✅🔲
@@ -21,7 +22,7 @@ I'm **Ali Imran**, a passionate Computer Science Undergraduate at **FAST NUCES L
 
 | Problem Type    | Solved  | Total |
 |-----------------|---------|-------|
-| Easy            | 43      | 813   |
+| Easy            | 44      | 813   |
 | Medium          | 15      | 1697  |
 | Hard            | 1       | 721   |
 
