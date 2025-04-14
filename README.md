@@ -8,7 +8,11 @@ I'm **Ali Imran**, a passionate Computer Science Undergraduate at **FAST NUCES L
 - ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)                    ✅✅✅🔲🔲🔲🔲🔲🔲🔲
 - ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)                 ✅✅✅✅✅✅✅✅🔲🔲
 - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)              ✅✅✅✅✅✅🔲🔲🔲🔲
+- ![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?logo=gnuemacs&logoColor=white)        ✅✅✅✅✅✅✅✅🔲🔲
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  ✅✅✅✅✅✅🔲🔲🔲🔲
+- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)                 ✅✅✅✅✅🔲🔲🔲🔲🔲  
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)         ✅✅✅✅🔲🔲🔲🔲🔲🔲  
+- ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)     ✅✅✅🔲🔲🔲🔲🔲🔲🔲  
 - ![XML](https://img.shields.io/badge/-XML-FFA500?logo=xml&logoColor=white)                       ✅✅✅✅✅✅✅✅🔲🔲
 - ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)                   ✅✅✅✅✅✅✅✅✅🔲
 - ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)                      ✅✅✅✅✅✅✅🔲🔲🔲
@@ -22,9 +26,9 @@ I'm **Ali Imran**, a passionate Computer Science Undergraduate at **FAST NUCES L
 
 | Problem Type    | Solved  | Total |
 |-----------------|---------|-------|
-| Easy            | 52      | 813   |
-| Medium          | 17      | 1697  |
-| Hard            | 1       | 721   |
+| Easy            | 139     | 813   |
+| Medium          | 123     | 1697  |
+| Hard            | 15      | 721   |
 
 
 
@@ -32,8 +36,9 @@ I'm **Ali Imran**, a passionate Computer Science Undergraduate at **FAST NUCES L
 
 ## 🌱 <b><u>Currently Learning</u></b>
 
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white) JavaScript
-- ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) PHP
+- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) React.js
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) Node.js
+- ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white) Express.js
 
 
 ## 📫 <b><u>Connect with Me</u></b>
