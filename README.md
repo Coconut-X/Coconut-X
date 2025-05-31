@@ -24,10 +24,11 @@ I'm **Ali Imran**, a passionate Computer Science Undergraduate at **FAST NUCES L
 
 | Problem Type    | Solved  | Total |
 |-----------------|---------|-------|
-| Easy            | 139     | 813   |
-| Medium          | 123     | 1697  |
-| Hard            | 15      | 721   |
-
+| Easy            | 147     | 813   |
+| Medium          | 141     | 1697  |
+| Hard            | 17      | 721   |
+| Total           | 305     | 3565  |
+Rank: 345K
 
 
 
