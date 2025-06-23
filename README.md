@@ -4,9 +4,10 @@ I'm **Ali Imran**, a passionate Computer Science Undergraduate at **FAST NUCES L
 
 ## 👨🏻‍💻 <b><u>Tech Stack</u></b>
 
+- ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)                 ✅✅✅✅✅✅✅✅🔲🔲
+- ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)                             ✅✅✅✅✅✅🔲🔲🔲🔲
 - ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white)              ✅✅✅✅🔲🔲🔲🔲🔲🔲
 - ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)                    ✅✅✅🔲🔲🔲🔲🔲🔲🔲
-- ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)                 ✅✅✅✅✅✅✅✅🔲🔲
 - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)              ✅✅✅✅✅✅🔲🔲🔲🔲
 - ![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?logo=gnuemacs&logoColor=white)        ✅✅✅✅✅✅✅✅🔲🔲
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  ✅✅✅✅✅✅🔲🔲🔲🔲
