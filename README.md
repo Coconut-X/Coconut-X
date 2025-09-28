@@ -32,7 +32,7 @@ I'm **Ali Imran**, a passionate Computer Science Undergraduate at **FAST NUCES L
 | Easy            | 164     | 813   |
 | Medium          | 161     | 1697  |
 | Hard            | 12      | 721   |
-| Total           | 305     | 3565  |
+| Total           | 347     | 3565  |
 Rank: 316K
 
 
