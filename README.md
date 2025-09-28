@@ -2,21 +2,25 @@
 
 I'm **Ali Imran**, a passionate Computer Science Undergraduate at **FAST NUCES LHR**. I've joined the GitHub Community to learn from others and showcase my work and projects.
 
-## 👨🏻‍💻 <b><u>Tech Stack</u></b>
+## 💻 Tech Stack & Skills
 
-- ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)                 ✅✅✅✅✅✅✅✅🔲🔲
-- ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)                             ✅✅✅✅✅✅🔲🔲🔲🔲
-- ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white)              ✅✅✅✅🔲🔲🔲🔲🔲🔲
-- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)                    ✅✅✅🔲🔲🔲🔲🔲🔲🔲
-- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)              ✅✅✅✅✅✅🔲🔲🔲🔲
-- ![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?logo=gnuemacs&logoColor=white)        ✅✅✅✅✅✅✅✅🔲🔲
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  ✅✅✅✅✅✅🔲🔲🔲🔲
-- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)                 ✅✅✅✅✅🔲🔲🔲🔲🔲  
-- ![XML](https://img.shields.io/badge/-XML-FFA500?logo=xml&logoColor=white)                       ✅✅✅✅🔲🔲🔲🔲🔲🔲
-- ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)                   ✅✅✅✅✅✅✅✅✅🔲
-- ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)                      ✅✅✅✅✅✅✅🔲🔲🔲
-- ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)                       ✅✅✅✅🔲🔲🔲🔲🔲🔲
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)                 ✅✅✅✅✅✅🔲🔲🔲🔲
+| **Category** | **Technology** | **Skill Level (1-10)** |
+| :--- | :--- | :--- |
+| **Languages** | ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white) | **8/10** $\quad$ ✅✅✅✅✅✅✅✅✅🔲 |
+| | ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black) | **6/10** $\quad$ ✅✅✅✅✅✅🔲🔲🔲🔲 |
+| | ![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?logo=gnuemacs&logoColor=white) | **8/10** $\quad$ ✅✅✅✅✅✅✅✅🔲🔲 |
+| | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | **6/10** $\quad$ ✅✅✅✅✅✅🔲🔲🔲🔲 |
+| | ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) | **3/10** $\quad$ ✅✅✅🔲🔲🔲🔲🔲🔲🔲 |
+| | ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white) | **4/10** $\quad$ ✅✅✅✅🔲🔲🔲🔲🔲🔲 |
+| **Frontend** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) | **6/10** $\quad$ ✅✅✅✅✅✅✅🔲🔲🔲 |
+| | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) | **5/10** $\quad$ ✅✅✅✅✅✅🔲🔲🔲🔲 |
+| | ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white) | **7/10** $\quad$ ✅✅✅✅✅✅✅🔲🔲🔲 |
+| | ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) | **9/10** $\quad$ ✅✅✅✅✅✅✅✅✅🔲 |
+| | ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) | **7/10** $\quad$ ✅✅✅✅✅✅✅🔲🔲🔲 |
+| | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white) | **8/10** $\quad$ ✅✅✅✅✅✅✅✅🔲🔲 |
+| **Backend/DB** | ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) | **4/10** $\quad$ ✅✅✅✅🔲🔲🔲🔲🔲🔲 |
+| | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) | **6/10** $\quad$ ✅✅✅✅✅✅✅🔲🔲🔲 |
+| | ![XML](https://img.shields.io/badge/-XML-FFA500?logo=xml&logoColor=white) | **4/10** $\quad$ ✅✅✅✅🔲🔲🔲🔲🔲🔲 |
 
 
 ## 📈 <b><u>LeetCode Profile</u></b>
