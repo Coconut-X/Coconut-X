@@ -40,7 +40,9 @@ Rank: 316K
 
 ## 🌱 <b><u>Currently Learning</u></b>
 
-- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) React.js
+- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) Angular
+- ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=Spring&logoColor=white) Sprint Boot
+- ![Electron](https://img.shields.io/badge/Electron-191970?logo=electron&logoColor=white) Electron Js
 
 
 
